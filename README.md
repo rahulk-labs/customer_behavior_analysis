@@ -65,6 +65,12 @@ The analysis focuses on understanding customer behavior, purchasing patterns, an
 
 ---
 
+## 📊 Presentation
+
+- 📌 [View Project Presentation](Customer-Shopping-Behavior-Analysis.pptx)
+
+---
+
 ## 📈 Key Insights
 
 - Majority of customers are non-subscribers  
