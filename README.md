@@ -61,6 +61,7 @@ The analysis focuses on understanding customer behavior, purchasing patterns, an
 - `customer_behavior_sql_queries.sql` → SQL queries for analysis  
 - `customer_shopping_behavior.csv` → Dataset used for analysis  
 - `Customer_Shopping_Behavior_Analysis.py` → Python data analysis script  
+- `Customer-Shopping-Behavior-Analysis.pptx` → Project presentation with insights and recommendations  
 
 ---
 
